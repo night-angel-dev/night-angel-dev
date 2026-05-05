@@ -5,6 +5,8 @@
 
 Founder @ **Night Angel Technologies** *(in spirit)*
 
+**🔨 Currently:** Learning AI fundamentals • Prepping for internships • Learning Database Systems  
+
 ---
 
 ### About Me 
@@ -21,21 +23,31 @@ I'm a Computer Science student @ Georgia State Unversity. My passion lies in cre
 
 ### 📂 My Projects by Category
 
-| Category | What you'll find |
-|----------|------------------|
-| 📱 Android | 11+ apps, from tip simulators to media trackers |
-| 🌐 Web | Vanilla JS projects, CodePath coursework |
-| 🤖 AI | Music recommenders, game glitch investigators |
-| 🏫 University | Processor design, CRUD systems |
-| 🎮 Game Dev | Global Game Jam 2026 collaboration |
+| Category     | What you'll find                                                          |
+| ------------ | ------------------------------------------------------------------------- |
+| 📱 Android    | 11+ apps (projects & labs), from simple calculations to apps usings API's |
+| 🌐 Web        | Vanilla JS projects, CodePath coursework                                  |
+| 🤖 AI         | Music Recommender, CodePath Coursework                                    |
+| 🏫 University | Processor design, CRUD systems                                            |
+| 🎮 Game Dev   | Global Game Jam 2026 collaboration                                        |
 
 ---
 
 ### Find me elsewhere
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/armando-a-galvan/)
+- 💬 [Discord](https://discordapp.com/users/583707186635472897) - *Add me*
+
 ---
 
 ## Pinned Repos (Coming Soon)
+
+Check back for my best work:
+- Employee Management System
+- CSC4210 Computer Architecture Processor Design
+- Music Recommender Simulation
+- Android 101 Media Tracker
+
 
 <!--
 **night-angel-dev/night-angel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
