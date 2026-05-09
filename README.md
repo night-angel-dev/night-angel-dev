@@ -3,7 +3,7 @@
 <!-- Headline -->
 > *Software Developer | Android • Web • AI*
 
-Founder @ **Night Angel Technologies** *(in spirit)*
+Founder @ **Night Angel Technologies** *(in spirit/pending)*
 
 **🔨 Currently:** Learning AI fundamentals • Prepping for internships • Learning Database Systems  
 
